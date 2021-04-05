@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rstefanov321
+- 👋 Hi there, I’m Radoslav
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Deep Learning algorithms
 - 💞️ I’m looking to collaborate on projects related on the topic. 
