@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m Radoslav
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Deep Learning algorithms
+- 🌱 I’m currently learning Deep Learning algorithms in Python
 - 💞️ I’m looking to collaborate on projects related on the topic. 
-- 📫 How to reach me rstefanov321@gmail.com
+- 📫 You can reach me via email: rstefanov321@gmail.com
 
 <!---
 rstefanov321/rstefanov321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
