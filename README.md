@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Radoslav
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Deep Learning algorithms in Python
+- 🌱 I’m currently learning the Python programming language and I post all my projects.
 - 💞️ I’m looking to collaborate on projects related on the topic. 
 - 📫 You can reach me via email: rstefanov321@gmail.com or via LinkedIn: https://www.linkedin.com/in/radoslav-stefanov-1118b5b6/
 
